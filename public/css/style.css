@@ -1,0 +1,19 @@
+.shop-total {
+    display: inline;
+    position: relative;
+    top: -15px;
+    left: -27px;
+
+}
+
+.a-no-dec:hover {
+    text-decoration: none;
+}
+
+#homejumbo {
+    background-image: url(https://cdn.pixabay.com/photo/2017/10/04/18/39/cello-2817159_960_720.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    margin-bottom: 0px;
+}
